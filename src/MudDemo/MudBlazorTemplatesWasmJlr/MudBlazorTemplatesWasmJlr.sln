@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MudBlazorTemplatesWasmJlr", "MudBlazorTemplatesWasmJlr.csproj", "{4E199D14-344C-4876-A82D-0A1E65374758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E199D14-344C-4876-A82D-0A1E65374758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E199D14-344C-4876-A82D-0A1E65374758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E199D14-344C-4876-A82D-0A1E65374758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E199D14-344C-4876-A82D-0A1E65374758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C08F30-F95C-4559-B61C-278EBE0AFAC1}
+	EndGlobalSection
+EndGlobal
